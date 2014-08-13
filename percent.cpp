@@ -2,6 +2,6 @@
 void main()
 {
 cout<<"hello";//gdgdg
-cout<<"welcome";
+cout<<"welcome";//new update
 //secondgbygbyg
 }
